@@ -14,11 +14,5 @@
   "reporterOptions": {
     "configFile": "reporter-config.json"
   },
-  "reporterEnabled": "mochawesome",
-  "mochawesomeReporterOptions": {
-    "reportDir": "cypress/results/json",
-    "overwrite": false,
-    "html": false,
-    "json": true
-  }
+  "videoCompression": 15
 }
