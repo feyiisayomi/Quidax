@@ -1,2 +1,0 @@
-# Quidax
-Quidax Assessment
